@@ -129,3 +129,7 @@ dmypy.json
 .pyre/
 
 week5/JSAnimation
+
+week9/6humanCodedDataSets/
+week9/data/
+week9/SentiStrength_Data/
