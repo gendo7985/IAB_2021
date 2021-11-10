@@ -133,3 +133,7 @@ week5/JSAnimation
 week9/6humanCodedDataSets/
 week9/data/
 week9/SentiStrength_Data/
+
+week10/.data/
+week10/.vector_cache/
+*.pt
