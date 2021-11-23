@@ -137,3 +137,8 @@ week9/SentiStrength_Data/
 week10/.data/
 week10/.vector_cache/
 *.pt
+
+week12/PageRank/data/
+week12/PageRank/images/
+week12/SPARK/spark-3.2.0-bin-hadoop2.7/
+week12/SPARK/*.tgz
